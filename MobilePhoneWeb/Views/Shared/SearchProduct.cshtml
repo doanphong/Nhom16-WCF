@@ -1,0 +1,57 @@
+﻿<div style="margin: 10px 0px 0px 0px;">
+    <div class="title"><p>TÌM KIẾM SẢN PHẨM</p></div>
+    <div class="show" style="padding-top:10px; padding-bottom: 6px;">
+        @using (Html.BeginForm("Timkiem", "Index"))
+        {
+            <form name="frmTimKiem" method="get">
+        
+            @{Html.RenderAction("DSLoaiTimKiem", "Index");}
+
+            <br>
+            <br>
+            <select name="giatu" style="height:20px;width:200px;">
+                <option value="0">-Giá từ-</option>
+                <option value="100000">1 trăm ngàn </option>
+                <option value="300000">3 trăm ngàn </option>
+                <option value="500000">5 trăm ngàn </option>
+                <option value="1000000">1 triệu </option>
+
+            </select>
+            <br>
+            <br>
+            <select name="den" style="height:20px;width:200px;">
+                <option value="0">-Giá đến-</option>
+                <option value="300000">3 trăm ngàn </option>
+                <option value="500000">5 trăm ngàn </option>
+                <option value="700000">7 trăm ngàn </option>
+                <option value="1000000">Trên 1 triệu </option>
+
+            </select>
+            <br>
+            <br>
+            <input type="hidden" name="TKnangcao" />
+            <input type="image" src="~/Images/btn_search.gif">
+            </form>
+        }
+    </div>
+</div>
+
+<div style="margin: 10px 0px 0px 0px;">
+    <div class="title"><p>Sản Phẩm Hot</p></div>
+    <div class="show">
+        <a href="/Index/Details/21">
+
+            <img src="/Images/SanPham/101463_fashion.jpg" width="250px" >
+        </a>
+    </div>
+</div>
+
+<div style="margin: 10px 0px 5px 0px;">
+    <div class="title"><p>HỖ TRỢ ONLINE</p></div>
+    <div class="show">
+        Đoàn Phong<br>
+          <a href="ymsgr:sendim?doanphong&amp;m=Chào anh Phong! Tôi muốn hỏi về vấn đề:... "><img border="0" src="http://opi.yahoo.com/online?u=nguoixula_1992&amp;m=g&amp;t=2" title="Nhấp vào đây để được hỗ trợ"></a>
+        <br>
+        <a href="Skype:doanphong.com?chat"> <img src="http://mystatus.skype.com/bigclassic/phongvu18nd" title="Admin itviet360" width="120" height="30" alt=""> </a>
+    </div>
+</div>

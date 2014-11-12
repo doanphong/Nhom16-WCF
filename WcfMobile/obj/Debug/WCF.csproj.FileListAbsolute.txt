@@ -1,0 +1,12 @@
+E:\Do an WCF\MobilePhoneWeb1\Webthoitrang\WcfMobile\bin\WcfMobile.dll
+E:\Do an WCF\MobilePhoneWeb1\Webthoitrang\WcfMobile\bin\WcfMobile.pdb
+E:\Do an WCF\MobilePhoneWeb1\Webthoitrang\WcfMobile\bin\EntityFramework.dll
+E:\Do an WCF\MobilePhoneWeb1\Webthoitrang\WcfMobile\bin\EntityFramework.xml
+E:\Do an WCF\MobilePhoneWeb1\Webthoitrang\WcfMobile\obj\Debug\WcfMobile.dll
+E:\Do an WCF\MobilePhoneWeb1\Webthoitrang\WcfMobile\obj\Debug\WcfMobile.pdb
+E:\Do an WCF\MobilePhoneWeb1\MobilePhoneWeb\WcfMobile\bin\WcfMobile.dll
+E:\Do an WCF\MobilePhoneWeb1\MobilePhoneWeb\WcfMobile\bin\WcfMobile.pdb
+E:\Do an WCF\MobilePhoneWeb1\MobilePhoneWeb\WcfMobile\bin\EntityFramework.dll
+E:\Do an WCF\MobilePhoneWeb1\MobilePhoneWeb\WcfMobile\bin\EntityFramework.xml
+E:\Do an WCF\MobilePhoneWeb1\MobilePhoneWeb\WcfMobile\obj\Debug\WcfMobile.dll
+E:\Do an WCF\MobilePhoneWeb1\MobilePhoneWeb\WcfMobile\obj\Debug\WcfMobile.pdb
